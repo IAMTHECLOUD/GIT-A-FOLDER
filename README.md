@@ -1,1 +1,2 @@
-﻿For git diff to see
+READMETEXT
+ORANGES
